@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\HP\Downloads\Stream\Camera\Stremery\build\windows\x64\CMakeFiles\88484ac3b062e03cae9995eb879ffeb0\flutter_windows.dll.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\HP\Downloads\Stream\Camera\Stremery\build\windows\x64\CMakeFiles\1d7485567388f14dd655baf6caa73111\flutter_assemble.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\HP\Downloads\Stream\Camera\Stremery\windows\flutter\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="C:\Users\HP\Downloads\Stream\Camera\Stremery\build\windows\x64\flutter\CMakeFiles\flutter_assemble" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{23CC82F9-56D7-36B3-AE65-9595C6DEB5AA}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
